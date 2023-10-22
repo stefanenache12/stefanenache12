@@ -9,9 +9,11 @@ Mi definisco un appassionato di programmazione che ha intrapreso il proprio viag
 Attualmente sto lavorando a vari progetti personali e cerco di migliorare le mie conoscenze in Javascript e Laravel!
 
 💼 **I miei obiettivi futuri:**
+
 Spero di lavorare su progetti appassionanti, imparare nuove tecnologie e connettermi con altri sviluppatori per condividere conoscenze ed esperienze.
 
-📫 **How to reach me::**
+📫 **How to reach me:**
+
 Mi trovi su Linkedin! Avvolte posto anche qualche post interessante 😊
 
 ⚡** Fun fact: **
