@@ -16,6 +16,8 @@ Spero di lavorare su progetti appassionanti, imparare nuove tecnologie e connett
 
 Mi trovi su Linkedin! Avvolte posto anche qualche post interessante 😊
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-nch/)
+
 ⚡**Fun Fact:**
 
 Quando non sono di fronte al computer, mi trovi in cucina. 
