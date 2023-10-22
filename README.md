@@ -37,9 +37,9 @@ Penso che cucinare e scrivere codice siano entrambi modi creativi di risolvere p
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-<div>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanenache12)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 <!--
 **stefanenache12/stefanenache12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
