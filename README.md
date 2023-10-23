@@ -2,8 +2,6 @@
 
 Sono Stefan Enache e ti do il benvenuto al mio profilo GitHub! 👋
 
-Mi definisco un appassionato di programmazione che ha intrapreso il proprio viaggio nel vasto mondo dello sviluppo software.
-
 🔭 **I’m currently working on**
 
 Attualmente sto lavorando a vari progetti personali e cerco di migliorare le mie conoscenze in Javascript e Laravel!
